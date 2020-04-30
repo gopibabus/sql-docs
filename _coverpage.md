@@ -1,16 +1,18 @@
 ![logo](assets/images/tech.png)
 
-> Record, Replay, and memorize Technology
+> Learn and memorize MySQL in a easy way😉
 
-- 🚀 Node & Browser Support
-- ⚡️️ Simple, Powerful, & Intuitive API
-- 💎 First Class Mocha & QUnit Test Helpers
-- 🔥 Intercept, Pass-Through, and Attach Events
-- 📼 Record to Disk or Local Storage
-- ⏱ Slow Down or Speed Up Time
+- 🚀 Write complex SQL queries
+- ⚡️️ Joins (inner, outer, natural, cross)
+- 💎 Views, Stored procedures
+- 🔥 Functions, Events, Triggers
+- 📼 Transactions, Concurrency
+- ⏱ Use indexing for performance
+- ⭐ Design relational databases
+- ⚓ Secure databases
 
 <div class="buttons">
-  <a href="https://github.com/gopibabus/DocTemplate/" target="_blank"><span>GitHub</span></a>
+  <a href="https://github.com/gopibabus/LearnMySQL/" target="_blank"><span>GitHub</span></a>
   <a href="#/README"><span>Get Started</span></a>
 </div>
 

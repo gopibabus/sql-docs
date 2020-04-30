@@ -5,9 +5,23 @@
 
 ---
 
-## Why Technology?
+## Learn and memorize MySQL in a easy way😉
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra mauris in aliquam sem. Sit amet est placerat in. Sit amet est placerat in egestas erat imperdiet. Elit at imperdiet dui accumsan sit amet nulla facilisi morbi. Egestas erat imperdiet sed euismod nisi. 
+SQL (Structured Query Language) is the primary language responsible for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS).
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
-- Sit amet est placerat in. Sit amet est placerat in egestas erat imperdiet. 
+## Why it’s important to learn SQL?
+
+- SQL is the most universal and common used database language.
+- It is not really difficult to learn SQL.
+- SQL is one of the most sought-after skills by hiring employers.
+
+---
+
+- 🚀 Write complex SQL queries
+- ⚡️️ Joins (inner, outer, natural, cross)
+- 💎 Views, Stored procedures
+- 🔥 Functions, Events, Triggers
+- 📼 Transactions, Concurrency
+- ⏱ Use indexing for performance
+- ⭐ Design relational databases
+- ⚓ Secure databases
