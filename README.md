@@ -15,6 +15,8 @@ SQL (Structured Query Language) is the primary language responsible for managing
 - It is not really difficult to learn SQL.
 - SQL is one of the most sought-after skills by hiring employers.
 
+[Tool to design Databases](https://dbdiagram.io/)
+
 ---
 
 - 🚀 Write complex SQL queries
