@@ -6,10 +6,7 @@
   - [Retrieve Data](retrieve_single/select.md)
 
 - Retrieving Data From Tables
-
-  - [Introduction](performance/intro_performance.md)
-  - [Optimizations](performance/network_performance.md)
-  - [Critical Render Path](performance/path_performance.md)
+  - [Retrieve Data](retrieve_multiple/select.md)
 
 - Inserting, Updating, and Deleting Data 
 

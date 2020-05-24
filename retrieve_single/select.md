@@ -1,7 +1,8 @@
-# 🔥Retrieving Data
+# 🔥Retrieving Data from Single Table
+
+<img alt="table" width="300px" src="/assets/images/table.png" />
 
 ## ⚡SELECT
-
 ### ✳Retrieve entire data from customers table
 
 ```sql
@@ -334,6 +335,8 @@ ORDER BY total_price DESC;
 ## ⚡LIMIT
 ### ✳Specify the number of records to return
 
+!> **NOTE:** LIMIT clause always come at end of the query.
+
 ```sql
 -- Get first 3 customers
 SELECT *
@@ -349,3 +352,19 @@ SELECT *
 FROM customers LIMIT 6, 3;
 -- Here 6 is offset
 ```
+
+```sql
+-- Get top 3 loyal customers
+SELECT *
+FROM customers 
+ORDER BY points DESC
+LIMIT 3;
+```
+
+## ⚡Order of Execution
+
+?> The SQL **order of execution** defines the order in which the clauses of a query are evaluated.
+
+<img alt="order of clauses" width="700px" src="/assets/images/order_clauses.png" />
+
+<img alt="order of clauses" width="700px" src="/assets/images/order_clauses2.png" />
