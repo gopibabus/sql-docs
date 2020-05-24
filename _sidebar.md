@@ -8,11 +8,10 @@
 - Retrieving Data From Tables
   - [Retrieve Data](retrieve_multiple/select.md)
 
-- Inserting, Updating, and Deleting Data 
-
-  - [Introduction](performance/intro_performance.md)
-  - [Optimizations](performance/network_performance.md)
-  - [Critical Render Path](performance/path_performance.md)
+- Inserting, Updating and Deleting
+  - [Inserting](update/insert.md)
+  - [Updating](update/update.md)
+  - [Deleting](update/delete.md)
 
 - Summarizing Data  
 
