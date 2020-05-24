@@ -1,14 +1,9 @@
 - Introduction
-
   - [Introduction](intro/intro.md)
-  - [Internals](intro/internals_ssh.md)
-  - [Practice](intro/practice_ssh.md)
+  - [Create](intro/create.md)
 
 - Retrieving Data From a Table
-
-  - [Introduction](performance/intro_performance.md)
-  - [Optimizations](performance/network_performance.md)
-  - [Critical Render Path](performance/path_performance.md)
+  - [Retrieve Data](retrieve_single/select.md)
 
 - Retrieving Data From Tables
 
