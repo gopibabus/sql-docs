@@ -12,19 +12,25 @@
 find / -name "pg_hba.conf"
 ```
 
-2.Add following line, save and close file.
+2. Add following line, save and close file.
 
 ```bash
 host    all             all             0.0.0.0/0               trust
 ```
 
-3. Search for **postgresql.conf** file. After opening the file, search for **listen_addresses**. Uncomment and update following value. Save and close file.
+3. Search for **postgresql.conf** file.
+
+```bash
+find / -name "postgresql.conf"
+```
+
+4. Open and search for **listen_addresses**. Uncomment and update following value. Save and close file.
 
 ```bash
 listen_addresses = '*'
 ```
 
-4. Restart PostgreSQL
+5. Restart PostgreSQL
 
 ```bash
 sudo service postgresql restart
