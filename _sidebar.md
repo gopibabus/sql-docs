@@ -1,36 +1,36 @@
 - Introduction
+
   - [Introduction](intro/intro.md)
   - [Create](intro/create.md)
 
 - Retrieving Data From a Table
+
   - [Retrieve Data](retrieve_single/select.md)
 
 - Retrieving Data From Tables
+
   - [Retrieve Data](retrieve_multiple/select.md)
 
 - Inserting, Updating and Deleting
+
   - [Inserting](update/insert.md)
   - [Updating](update/update.md)
   - [Deleting](update/delete.md)
 
-- Summarizing Data  
+- Summarizing Data
 
-  - [Introduction](performance/intro_performance.md)
-  - [Optimizations](performance/network_performance.md)
-  - [Critical Render Path](performance/path_performance.md)
+  - [Introduction](summary/index.md)
 
 - Writing Complex Query
 
-  - [Introduction](performance/intro_performance.md)
-  - [Optimizations](performance/network_performance.md)
-  - [Critical Render Path](performance/path_performance.md)
+  - [Complex Queries](complex/complex.md)
 
 - MySQL Functions
 
   - [Introduction](performance/intro_performance.md)
   - [Optimizations](performance/network_performance.md)
   - [Critical Render Path](performance/path_performance.md)
-  
+
 - Views
 
   - [Introduction](performance/intro_performance.md)
@@ -55,7 +55,7 @@
   - [Optimizations](performance/network_performance.md)
   - [Critical Render Path](performance/path_performance.md)
 
-- Data Types 
+- Data Types
 
   - [Introduction](performance/intro_performance.md)
   - [Optimizations](performance/network_performance.md)
@@ -79,5 +79,4 @@
   - [Optimizations](performance/network_performance.md)
   - [Critical Render Path](performance/path_performance.md)
 
-
-- [Contributing](contribution/index.md)
+* [Contributing](contribution/index.md)
