@@ -1,10 +1,10 @@
 # 🔥How to Connect PostgreSQL
 
-### How to install PostgreSQL on windows?
+### ✳How to install PostgreSQL on windows?
 
 [Reference](https://www.postgresqltutorial.com/install-postgresql/)
 
-### How to allow remote connections?
+### ✳How to allow remote connections?
 
 1. Search for **pg_hba.conf** file.
 
