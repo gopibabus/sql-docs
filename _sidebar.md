@@ -79,4 +79,7 @@
   - [Optimizations](performance/network_performance.md)
   - [Critical Render Path](performance/path_performance.md)
 
+- PostgreSQL
+  - [Configuration](pgsql/connection.md)
+
 * [Contributing](contribution/index.md)
