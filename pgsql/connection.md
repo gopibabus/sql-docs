@@ -1,4 +1,6 @@
-# 🔥How to Connect PostgreSQL
+# 🔥PostgreSQL
+
+<img alt="postgres" width="700px" src="/assets/images/postgresql.png" />
 
 ### ✳How to install PostgreSQL on windows?
 
