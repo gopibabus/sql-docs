@@ -34,9 +34,7 @@
 
 - Views
 
-  - [Introduction](performance/intro_performance.md)
-  - [Optimizations](performance/network_performance.md)
-  - [Critical Render Path](performance/path_performance.md)
+  - [Introduction](views/intro.md)
 
 - Stored Procedures
 
