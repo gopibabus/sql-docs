@@ -2,9 +2,11 @@
 
 <img alt="postgres" width="700px" src="/assets/images/postgresql.png" />
 
-### ✳How to install PostgreSQL on windows?
+### ✳How to install PostgreSQL?
 
-[Reference](https://www.postgresqltutorial.com/install-postgresql/)
+> [How to install PostgreSQL on Windows](https://www.postgresqltutorial.com/install-postgresql/)
+
+> [How to install PostgreSQL on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04)
 
 ### ✳How to allow remote connections?
 
