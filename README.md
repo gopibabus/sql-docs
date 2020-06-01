@@ -1,11 +1,11 @@
 <p align="center">
   <img alt="Technology" width="400px" src="/assets/images/tech.png" />
 </p>
-<h2 align="center">Record, Replay, and memorize MySQL</h2>
+<h2 align="center">Record, Replay, and memorize SQL</h2>
 
 ---
 
-## Learn and memorize MySQL in a easy way😉
+## Learn and memorize SQL in a easy way😉
 
 SQL (Structured Query Language) is the primary language responsible for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS).
 

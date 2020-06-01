@@ -27,9 +27,10 @@
 
 - MySQL Functions
 
-  - [Introduction](performance/intro_performance.md)
-  - [Optimizations](performance/network_performance.md)
-  - [Critical Render Path](performance/path_performance.md)
+  - [Numeric Functions](functions/numeric.md)
+  - [String Functions](functions/string.md)
+  - [Date Functions](functions/date.md)
+  - [Conditionals](functions/condition.md)
 
 - Views
 
