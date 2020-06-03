@@ -37,9 +37,10 @@
 
   - [Introduction](views/intro.md)
 
-- Stored Procedures
+- Stored Procedures & Functions
 
-  - [Introduction](stored_procedures/intro.md)
+  - [Stored Procedures](stored_procedures/sp.md)
+  - [Functions](stored_procedures/func.md)
 
 - Triggers and Events
 
