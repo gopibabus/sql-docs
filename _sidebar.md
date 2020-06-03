@@ -46,9 +46,8 @@
 
 - Triggers and Events
 
-  - [Introduction](performance/intro_performance.md)
-  - [Optimizations](performance/network_performance.md)
-  - [Critical Render Path](performance/path_performance.md)
+  - [Triggers](triggers_events/triggers.md)
+  - [Events](triggers_events/events.md)
 
 - Transactions and Concurrency
 
