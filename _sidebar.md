@@ -40,6 +40,8 @@
 - Stored Procedures & Functions
 
   - [Stored Procedures](stored_procedures/sp.md)
+  - [Parameters](stored_procedures/parameters.md)
+  - [Variables](stored_procedures/variables.md)
   - [Functions](stored_procedures/func.md)
 
 - Triggers and Events
