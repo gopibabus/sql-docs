@@ -10,6 +10,8 @@
 
 ### ✳How to allow remote connections?
 
+<img alt="pgsql config" width="700px" src="/assets/images/config_postgres.png" />
+
 1. Search for **pg_hba.conf** file.
 
 ```bash

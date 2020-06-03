@@ -2,6 +2,7 @@
 
   - [Introduction](intro/intro.md)
   - [Create](intro/create.md)
+  - [Configuration](intro/config.md)
 
 - Retrieving Data From a Table
 
@@ -38,9 +39,7 @@
 
 - Stored Procedures
 
-  - [Introduction](performance/intro_performance.md)
-  - [Optimizations](performance/network_performance.md)
-  - [Critical Render Path](performance/path_performance.md)
+  - [Introduction](stored_procedures/intro.md)
 
 - Triggers and Events
 
