@@ -51,9 +51,8 @@
 
 - Transactions and Concurrency
 
-  - [Introduction](performance/intro_performance.md)
-  - [Optimizations](performance/network_performance.md)
-  - [Critical Render Path](performance/path_performance.md)
+  - [Transactions](transactions/trans.md)
+  - [Concurrency](transactions/conc.md)
 
 - Data Types
 
