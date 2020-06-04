@@ -56,27 +56,19 @@
 
 - Data Types
 
-  - [Introduction](performance/intro_performance.md)
-  - [Optimizations](performance/network_performance.md)
-  - [Critical Render Path](performance/path_performance.md)
+  - [Introduction](data_types/intro.md)
 
 - Designing Databases
 
-  - [Introduction](performance/intro_performance.md)
-  - [Optimizations](performance/network_performance.md)
-  - [Critical Render Path](performance/path_performance.md)
+  - [Introduction](design/intro.md)
 
 - Indexing for High Performance
 
-  - [Introduction](performance/intro_performance.md)
-  - [Optimizations](performance/network_performance.md)
-  - [Critical Render Path](performance/path_performance.md)
+  - [Introduction](indexing/intro.md)
 
 - Securing Databases
 
-  - [Introduction](performance/intro_performance.md)
-  - [Optimizations](performance/network_performance.md)
-  - [Critical Render Path](performance/path_performance.md)
+  - [Introduction](security/intro.md)
 
 - PostgreSQL
   - [Configuration](pgsql/connection.md)
