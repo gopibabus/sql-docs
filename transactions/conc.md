@@ -24,6 +24,8 @@
 
 > [Reference](https://www.ibm.com/support/knowledgecenter/SSEPGG_11.1.0/com.ibm.db2.luw.admin.perf.doc/doc/c0005267.html)
 
+> [Reference](https://blog.gojekengineering.com/on-concurrency-control-in-databases-1e34c95d396e)
+
 ## ⚡Transaction Isolation levels
 
 - **READ UNCOMMITTED**
