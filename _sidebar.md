@@ -56,7 +56,7 @@
 
 - Data Types
 
-  - [Introduction](data_types/intro.md)
+  - [Data Types](data_types/intro.md)
 
 - Designing Databases
 
