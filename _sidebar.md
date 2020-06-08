@@ -70,6 +70,10 @@
 
   - [Introduction](security/intro.md)
 
+- More about MySQL
+
+  - [Introduction](mysql/intro.md)
+
 - PostgreSQL
   - [Configuration](pgsql/connection.md)
 
