@@ -1,3 +1,5 @@
+- Timeline and Statistics
+  - [Timeline and Statistics](timeline/index.md)
 - Introduction
 
   - [Introduction](intro/intro.md)
