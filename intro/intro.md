@@ -4,7 +4,7 @@
 
 <img alt="Technology" width="300px" src="/assets/images/database.png" />
 
-?> A **Database** is a collection of data stored in a format that can easily be accessed. 
+?> A **Database** is a collection of data stored in a format that can easily be accessed.
 
 ## ⚡What is Database Management System(DBMS)?
 
@@ -15,6 +15,29 @@
 ## ⚡Types of Database Management Systems(DBMS)?
 
 <img alt="SQL vs NoSQL" width="700px" src="/assets/images/sql_nosql.png" />
+
+> There are **4** types of DBMS.
+
+1. Hierarchical DBMS
+2. Network DBMS
+3. Relational DBMS
+4. Object Oriented DBMS
+
+?> Each DBMS has it's own use cases. But most used and popular DBMS is **Relational DBMS**.
+
+### ✳Hierarchical Database Management Systems (HDBMS)
+
+?> A hierarchical database model is a data model in which the data are organized into a tree-like structure. The data are stored as records which are connected to one another through links. A record is a collection of fields, with each field containing only one value. The type of a record defines which fields the record contains.
+
+?> The hierarchical database model mandates that each child record has only one parent, whereas each parent record can have one or more child records. In order to retrieve data from a hierarchical database the whole tree needs to be traversed starting from the root node. This model is recognized as the first database model created by IBM in the 1960s.
+
+### ✳Network Database Management Systems (NDBMS)
+
+?> The network model is a database model conceived as a flexible way of representing objects and their relationships. Its distinguishing feature is that the schema, viewed as a graph in which object types are nodes and relationship types are arcs, is not restricted to being a hierarchy or lattice. These are replaced by relational databases in the 1980s.
+
+### ✳Object Oriented Database Management Systems (OODDBMS)
+
+?> An object database is a database management system in which information is represented in the form of objects as used in object-oriented programming. Object databases are different from relational databases which are table-oriented. Object-relational databases are a hybrid of both approaches. Object databases have been considered since the early 1980s.
 
 ### ✳Relational Database Management Systems (RDBMS)
 
@@ -41,13 +64,3 @@
 > [Redis](https://redis.io/)
 
 > [CouchDB](https://couchdb.apache.org/)
-
-## ⚡Database Dumps
-
-<a class="btn btn-lg mt-3 form-control bg-danger text-light" href="/db_dump/create-db-hr.sql">Download db-hr</a>
-
-<a class="btn btn-lg mt-3 form-control bg-danger text-light" href="/db_dump/create-db-store.sql">Download db-store</a>
-
-<a class="btn btn-lg mt-3 form-control bg-danger text-light" href="/db_dump/create-db-invoicing.sql">Download db-invoicing</a>
-
-<a class="btn btn-lg mt-3 form-control bg-danger text-light" href="/db_dump/create-db-inventory.sql">Download db-inventory</a>

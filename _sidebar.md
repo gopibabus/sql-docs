@@ -1,10 +1,14 @@
 - Timeline and Statistics
+
   - [Timeline and Statistics](timeline/index.md)
+
 - Introduction
 
   - [Introduction](intro/intro.md)
-  - [Create](intro/create.md)
+  - [SQL](intro/sql.md)
   - [Configuration](intro/config.md)
+  - [MySQL Dumps](intro/dumps.md)
+  - [Create](intro/create.md)
 
 - Retrieving Data From a Table
 
@@ -78,5 +82,6 @@
 
 - PostgreSQL
   - [Configuration](pgsql/connection.md)
+  - [Essential Commands](pgsql/commands.md)
 
 * [Contributing](contribution/index.md)

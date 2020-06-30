@@ -8,6 +8,12 @@ CREATE DATABASE [databasename];
 CREATE DATABASE sql_store;
 ```
 
+❇How to rename a table?
+
+```sql
+RENAME TABLE old_table TO new_table;
+```
+
 ✳How to select a database?
 
 ```sql
