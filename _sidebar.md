@@ -79,6 +79,7 @@
 - More about MySQL
 
   - [Introduction](mysql/intro.md)
+  - [Essentials](mysql/ess.md)
 
 - PostgreSQL
   - [Configuration](pgsql/connection.md)
