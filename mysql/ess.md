@@ -195,3 +195,5 @@
     ```text
     mysqladmin --help
     ```
+
+[⏯ Video Reference](https://www.youtube.com/watch?v=vIIRuDtG1yI)

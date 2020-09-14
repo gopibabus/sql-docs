@@ -80,6 +80,7 @@
 
   - [Introduction](mysql/intro.md)
   - [Essentials](mysql/ess.md)
+  - [MySQL Backup](mysql/backup.md)
 
 - PostgreSQL
   - [Configuration](pgsql/connection.md)
