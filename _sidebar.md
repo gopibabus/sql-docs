@@ -86,4 +86,7 @@
   - [Configuration](pgsql/connection.md)
   - [Essential Commands](pgsql/commands.md)
 
+- MSSQL
+  - [Snippets](mssql/snippets.md)
+
 * [Contributing](contribution/index.md)
